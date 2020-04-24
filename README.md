@@ -1,5 +1,13 @@
 # Volunteerly
 
+## Overview
+A problem many NGO’s face is the difficulty of attracting volunteers to help out their cause. One of the top reasons is that there is no centralized platform where people can easily find and join an existing volunteering event. Furthermore, it is hard to incentivise people to volunteer for events without funding.
+
+We decided to create a solution which: 
+* Advertises volunteering events and makes them more visible
+* Connects sponsors who want to support great causes to impactful NGO’s and volunteers
+* And has gamification features which encourage repeat volunteering
+
 ## Deployed Version
 
 https://volunteer-web.herokuapp.com/home
