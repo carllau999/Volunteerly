@@ -1,4 +1,4 @@
-# team48: Volunteerly
+# Volunteerly
 
 ## Deployed Version
 
