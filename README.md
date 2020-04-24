@@ -2,7 +2,7 @@
 
 ## Deployed Version
 
-https://csc309-volunteer-web.herokuapp.com/home
+https://volunteer-web.herokuapp.com/home
 
 We deployed by hosting our PostgreSQL database on Heroku, along with the frontend by building the React files using Webpack and then serving them via ExpressJS. 
 The backend is deployed on AWS serverless, which is accessed through a public AWS S3 bucket.
